@@ -1,7 +1,8 @@
 ## calculator_app
 
-https://raw.githubusercontent.com/Haidar-JPR/Basic-Calculator/master/assets/cal_flutter.jpeg?raw=true
 ![alt text](https://github.com/Haidar-JPR/Basic-Calculator/blob/master/assets/cal_flutter.jpeg?raw=true)
+
+<img src="https://github.com/Haidar-JPR/Basic-Calculator/blob/master/assets/cal_flutter.jpeg?raw=true" width="150" height="280">
 
 
 My first app with flutter framework
